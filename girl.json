@@ -1,0 +1,39 @@
+{
+    "name": "Paci",
+    "age": 6,
+    "mother": "Momma", 
+    "father": "Gaben", 
+    "personality": {
+      "traits": [
+        {"type": "introverted", "strength": 8},
+        {"type": "creative", "strength": 9},
+        {"type": "curious", "strength": 7}
+      ],
+      "quirks": ["has a habit of collecting stray cats", "loves to wear bright colors"],
+      "values": ["friendship", "knowledge", "creativity"]
+    },
+    "likes": [
+      {
+        "thing": "science",
+        "why": "she wants to become a scientist"
+      },
+      {
+        "thing": "reading",
+        "why": "she loves getting lost in different worlds and perspectives"
+      },
+      {
+        "thing": "playing legos",
+        "why": "it's a way for her to express herself and relax"
+      }
+    ],
+    "dislikes": [
+      {
+        "thing": "lying",
+        "why": "it feels like a betrayal of trust"
+      },
+      {
+        "thing": "judgmental people",
+        "why": "she believes everyone deserves kindness and respect"
+      }
+    ]
+  }
